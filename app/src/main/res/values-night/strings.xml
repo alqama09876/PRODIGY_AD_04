@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="game">Tic Tac Toe</string>
+    <string name="restart_game">Restart Game</string>
+</resources>
